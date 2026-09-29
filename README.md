@@ -107,3 +107,6 @@ python phase6_forecast_rule.py # finish-date rule + union/overlap -> ../data/dep
 
 Each script prints its results to the terminal so they can be checked
 against the numbers in this README and in `docs/methodology.md`.
+This analysis is presented as an interactive dashboard on my portfolio.
+
+[View this project on my portfolio →](https://harjotsandhu.com/work/nyc-water-project-health)
